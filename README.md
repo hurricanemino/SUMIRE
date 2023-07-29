@@ -3,6 +3,7 @@
 Just a sample repo for learing the basics of maarkdown 
 
 more text with two line breaks between 
+[日刊スポーツ](http://nikkansports.com)
 
 - make a dot 
 
