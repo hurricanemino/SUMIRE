@@ -4,6 +4,8 @@ Just a sample repo for learing the basics of maarkdown
 
 more text with two line breaks between 
 
+- make a dot 
+
 - first time
 - secon time
 -  third time
