@@ -1,7 +1,6 @@
 # SUMIRE
 ## sub heading 
 Just a sample repo for learing the basics of maarkdown 
-
 more text with two line breaks between 
 
 - first time
